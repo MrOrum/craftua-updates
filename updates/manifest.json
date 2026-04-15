@@ -1,0 +1,445 @@
+{
+    "files": [
+        {
+            "path": "config/advanced_solar_panels.cfg",
+            "size": 1296,
+            "hash": "f5e0f4f5c077255433b85b2deec85480"
+        },
+        {
+            "path": "config/advanced_solar_panels_MTRecipes.cfg",
+            "size": 2170,
+            "hash": "8dc65831701a053495091c67a46a1f99"
+        },
+        {
+            "path": "config/AE2Stuff/readme.txt",
+            "size": 202,
+            "hash": "a31c7deefb9985e7e6338ab2ace29a2c"
+        },
+        {
+            "path": "config/AppliedEnergistics2/AppliedEnergistics2.cfg",
+            "size": 12265,
+            "hash": "b428224bec26a3ead975950fd47d1a2b"
+        },
+        {
+            "path": "config/AppliedEnergistics2/CustomRecipes.cfg",
+            "size": 835,
+            "hash": "07ba5328d6873131d15efd6d29bf2c38"
+        },
+        {
+            "path": "config/AppliedEnergistics2/Facades.cfg",
+            "size": 1733,
+            "hash": "b9cbb1590af5ea4efe126f7ca05b23ad"
+        },
+        {
+            "path": "config/AppliedEnergistics2/items.csv",
+            "size": 229871,
+            "hash": "dc10792fb6730aa7e2b06122a1b24d6c"
+        },
+        {
+            "path": "config/AppliedEnergistics2/VersionChecker.cfg",
+            "size": 755,
+            "hash": "a50d9bec9224b6e476e376191dd5c410"
+        },
+        {
+            "path": "config/bspkrscore.cfg",
+            "size": 1239,
+            "hash": "485522bab62fc5867e5640aad5ec9cfa"
+        },
+        {
+            "path": "config/buildcraft/detailed.properties",
+            "size": 440,
+            "hash": "6ad71f87bdd6e0101baf4483277be150"
+        },
+        {
+            "path": "config/buildcraft/main.cfg",
+            "size": 6588,
+            "hash": "edea8d55e2908b1ab7d2e117d12d0ee6"
+        },
+        {
+            "path": "config/buildcraft/objects.cfg",
+            "size": 1619,
+            "hash": "50e2e838577d50f57959ffe4e9824ba4"
+        },
+        {
+            "path": "config/comboarmors.cfg",
+            "size": 3196,
+            "hash": "dc26441fa188e100d22f779058757858"
+        },
+        {
+            "path": "config/compactsolars.cfg",
+            "size": 272,
+            "hash": "419a327c9bf3377728207227cab050ae"
+        },
+        {
+            "path": "config/forestry/apiculture.cfg",
+            "size": 1448,
+            "hash": "7ce92b4448c877852a001252ae1fa150"
+        },
+        {
+            "path": "config/forestry/arboriculture.cfg",
+            "size": 16481,
+            "hash": "4b58913146b2a81a883ea032a8022921"
+        },
+        {
+            "path": "config/forestry/backpacks.cfg",
+            "size": 9323,
+            "hash": "86def40d2a4331c43d6eae7879469d3a"
+        },
+        {
+            "path": "config/forestry/common.cfg",
+            "size": 9314,
+            "hash": "54cfe52e43b16ec906c2cbc9035d5be4"
+        },
+        {
+            "path": "config/forestry/crates.cfg",
+            "size": 791,
+            "hash": "1cc51219aa7ac70d175cf1e8599a3f8c"
+        },
+        {
+            "path": "config/forestry/farm.cfg",
+            "size": 425,
+            "hash": "7d948db38335dbf1692d85a5053958a7"
+        },
+        {
+            "path": "config/forestry/fluids.cfg",
+            "size": 1668,
+            "hash": "315bfd16d52e481bd27229b64700c365"
+        },
+        {
+            "path": "config/forestry/gamemodes/EASY.cfg",
+            "size": 5145,
+            "hash": "263ad2c34c23fc86c4b29825093f4d1c"
+        },
+        {
+            "path": "config/forestry/gamemodes/HARD.cfg",
+            "size": 4949,
+            "hash": "3a9f3fbb76807de7c1218537864d33c8"
+        },
+        {
+            "path": "config/forestry/gamemodes/NORMAL.cfg",
+            "size": 4966,
+            "hash": "6d40c72aced717246c56527e18304222"
+        },
+        {
+            "path": "config/forestry/gamemodes/OP.cfg",
+            "size": 4986,
+            "hash": "ddfe45de70a33ba83a43f15483e1e3ff"
+        },
+        {
+            "path": "config/forestry/lepidopterology.cfg",
+            "size": 3591,
+            "hash": "1e17e0165648d3d57c4b9b849f9c402d"
+        },
+        {
+            "path": "config/forestry/modules.cfg",
+            "size": 6884,
+            "hash": "fb59957ef968fb43a810b14d6b966d40"
+        },
+        {
+            "path": "config/forge.cfg",
+            "size": 3955,
+            "hash": "bee77d51b82699b95bf5c02788f654fb"
+        },
+        {
+            "path": "config/forgeChunkLoading.cfg",
+            "size": 2293,
+            "hash": "13dc1a793d7a958d5b635ec5b429a1ac"
+        },
+        {
+            "path": "config/gravisuite.cfg",
+            "size": 660,
+            "hash": "2c97f712f05d7602ca515029215f437d"
+        },
+        {
+            "path": "config/IC2.ini",
+            "size": 11958,
+            "hash": "12bb5e722e40680dadcdb0bcd801ee3c"
+        },
+        {
+            "path": "config/InvTweaks/InvTweaks.cfg",
+            "size": 772,
+            "hash": "9f848a5a70084d8847603a4b833788db"
+        },
+        {
+            "path": "config/InvTweaks/InvTweaksRules.txt",
+            "size": 1237,
+            "hash": "92d24282b6449e90a1ce9ca621c7f43e"
+        },
+        {
+            "path": "config/InvTweaks/InvTweaksTree.txt",
+            "size": 64124,
+            "hash": "8a650400caae6960f21a2ab2b9ad20f3"
+        },
+        {
+            "path": "config/InvTweaks/trees/readme.txt",
+            "size": 519,
+            "hash": "34a966a4872523c8f7881871e9c9bae9"
+        },
+        {
+            "path": "config/ironchest.cfg",
+            "size": 270,
+            "hash": "a3757bcbfbb3f7621ce5e6edfed9914c"
+        },
+        {
+            "path": "config/jei/itemBlacklist.cfg",
+            "size": 1001,
+            "hash": "0017497402785d3a63fc3e4c34680358"
+        },
+        {
+            "path": "config/jei/jei.cfg",
+            "size": 4180,
+            "hash": "c775a022ce88d7d96fa9147541437574"
+        },
+        {
+            "path": "config/jei/searchColors.cfg",
+            "size": 2010,
+            "hash": "a5aab042ef12625c89b02d1850caaac1"
+        },
+        {
+            "path": "config/jei/worldSettings.cfg",
+            "size": 702,
+            "hash": "b5eabd84c192dbf3ac5caf0e70d46ee4"
+        },
+        {
+            "path": "config/splash.properties",
+            "size": 376,
+            "hash": "fd4df8fc1bc62d5df016ac011226ba77"
+        },
+        {
+            "path": "config/treecapitator.cfg",
+            "size": 21776,
+            "hash": "b0cf14d3c7bd11cc9b32cfea1fcf40bb"
+        },
+        {
+            "path": "config/UniqueNames.txt",
+            "size": 59356,
+            "hash": "ee194e4bc38668b8fb9a2780d25f3094"
+        },
+        {
+            "path": "config/voicechat/category-volumes.properties",
+            "size": 46,
+            "hash": "47731f53ffef4a8a57c766a8091a5651"
+        },
+        {
+            "path": "config/voicechat/player-volumes.properties",
+            "size": 44,
+            "hash": "881435f0ba9a0f1af1d2082d1298dcc4"
+        },
+        {
+            "path": "config/voicechat/translations.properties",
+            "size": 1182,
+            "hash": "4af29bbbf5267fe4298e80c2e6ebca63"
+        },
+        {
+            "path": "config/voicechat/username-cache.json",
+            "size": 49,
+            "hash": "052834f7b61580cec0e4a8dc67241add"
+        },
+        {
+            "path": "config/voicechat/voicechat-client.properties",
+            "size": 3231,
+            "hash": "01d69691b73102d5024acde0a84ca619"
+        },
+        {
+            "path": "config/voicechat/voicechat-server.properties",
+            "size": 1748,
+            "hash": "61f9fd447fb3c59bac3f4eb559f6a4a4"
+        },
+        {
+            "path": "config/waila/theme/dark.json",
+            "size": 137,
+            "hash": "91f7d992164fa6c216f5a23059b2137a"
+        },
+        {
+            "path": "config/waila/theme/vanilla.json",
+            "size": 140,
+            "hash": "93f67ec8cc14f861d01b4b930b49525b"
+        },
+        {
+            "path": "config/waila/waila.cfg",
+            "size": 3106,
+            "hash": "cea9b9db404739d8abde264feb4a1266"
+        },
+        {
+            "path": "config/worldedit/worldedit.properties",
+            "size": 1057,
+            "hash": "e4a02dd8cad664bacd55354898785c55"
+        },
+        {
+            "path": "config/xaero/lib/client.cfg",
+            "size": 26,
+            "hash": "dd7d24d2b991f7648671c16d0a74c265"
+        },
+        {
+            "path": "config/xaero/lib/common.cfg",
+            "size": 236,
+            "hash": "e085e122e32132e1fa73ac927f7ece81"
+        },
+        {
+            "path": "config/xaero/lib/profiles/default.cfg",
+            "size": 121,
+            "hash": "e6a2491cfa99c4163942c19eb7b4c489"
+        },
+        {
+            "path": "config/xaero/lib/server_profiles/default.cfg",
+            "size": 75,
+            "hash": "a7ba1c4e531ad6afe1fa89e86f7dfd6f"
+        },
+        {
+            "path": "config/xaero/minimap/client.cfg",
+            "size": 235,
+            "hash": "7a8d5e6353c7471f6002052f1fbd71bb"
+        },
+        {
+            "path": "config/xaero/minimap/common.cfg",
+            "size": 147,
+            "hash": "48d56532be92f58e976a2d1753abdd35"
+        },
+        {
+            "path": "config/xaero/minimap/default_radar_categories_client.json",
+            "size": 5531,
+            "hash": "9c08ddf57ca870f128b7671da8fbd0f7"
+        },
+        {
+            "path": "config/xaero/minimap/default_radar_categories_server.json",
+            "size": 4597,
+            "hash": "7ffe568a308241b93166af2d45ce79c7"
+        },
+        {
+            "path": "config/xaero/minimap/profiles/default.cfg",
+            "size": 3649,
+            "hash": "7f5bb0f94d77b134ba8e0b9216e2324b"
+        },
+        {
+            "path": "config/xaero/minimap/profiles/info_display_config/default.cfg.txt",
+            "size": 684,
+            "hash": "64d98932063f0be723920fbdb1de1268"
+        },
+        {
+            "path": "config/xaero/minimap/server_profiles/default.cfg",
+            "size": 75,
+            "hash": "a7ba1c4e531ad6afe1fa89e86f7dfd6f"
+        },
+        {
+            "path": "config/xaerohud.txt",
+            "size": 123,
+            "hash": "2f87c54b0b2e85e6a5031171284d6f31"
+        },
+        {
+            "path": "config/xaeropatreon.txt",
+            "size": 0,
+            "hash": "d41d8cd98f00b204e9800998ecf8427e"
+        },
+        {
+            "path": "mods/advancedmachines-61.0.1.jar",
+            "size": 190539,
+            "hash": "24d77945801cc648257f9066b461a040"
+        },
+        {
+            "path": "mods/advancedsolarpanels-4.3.0.jar",
+            "size": 316833,
+            "hash": "2f16b7591d15da58d91f2ff147299a73"
+        },
+        {
+            "path": "mods/ae2stuff-0.7.0.4-mc1.12.2.jar",
+            "size": 513374,
+            "hash": "8594b7501c1ecc1bdaaa8ef42b7dbdda"
+        },
+        {
+            "path": "mods/appliedenergistics2-rv6-stable-7.jar",
+            "size": 4062630,
+            "hash": "b8667d60a761d5b5ae3c8a15192f9e28"
+        },
+        {
+            "path": "mods/bdlib-1.14.4.1-mc1.12.2.jar",
+            "size": 2313893,
+            "hash": "139f537240f0ab0ab666ead8879f9062"
+        },
+        {
+            "path": "mods/buildcraft-all-8.0.0-1.12.2.jar",
+            "size": 5535454,
+            "hash": "46b9656fe37ba8005e57d955e39799e2"
+        },
+        {
+            "path": "mods/comboarmors-1.12.2-0.0.9.jar",
+            "size": 312972,
+            "hash": "34b1321042f1100938b024b244c51075"
+        },
+        {
+            "path": "mods/compactsolars-1.12.2-5.0.18.341-universal.jar",
+            "size": 73134,
+            "hash": "bcfbc1b879fd0d06443ac9ca2774a5a0"
+        },
+        {
+            "path": "mods/forestry_1.12.2-5.8.2.424.jar",
+            "size": 5364115,
+            "hash": "a9ffb1fa0cbe5eb8acd96f8189f03a59"
+        },
+        {
+            "path": "mods/gravitationsuite-3.1.1.jar",
+            "size": 345616,
+            "hash": "df11063bc9e72e8287865ff338235cf9"
+        },
+        {
+            "path": "mods/Hwyla-1.8.26-B41_1.12.2.jar",
+            "size": 453778,
+            "hash": "bca1c069d9171d331d211d24e8a3b770"
+        },
+        {
+            "path": "mods/industrialcraft-2-2.8.188-ex112.jar",
+            "size": 8465870,
+            "hash": "8a541cfd320177809b0771002f0e6daf"
+        },
+        {
+            "path": "mods/InventoryTweaks_1.12.2_1.64dev.151.jar",
+            "size": 286144,
+            "hash": "eff5b44c2e1019a262eafd0aaad4c4a9"
+        },
+        {
+            "path": "mods/ironchest-netherite-1.12.2-0.9.2.jar",
+            "size": 1326625,
+            "hash": "096cedd153f5c691fe8d5d87866bc9ec"
+        },
+        {
+            "path": "mods/jei_1.12.2-4.16.1.1013.jar",
+            "size": 655406,
+            "hash": "155469b1e6be853ba4b273044bc4a68e"
+        },
+        {
+            "path": "mods/MouseTweaks-2.10-mc1.12.2.jar",
+            "size": 75170,
+            "hash": "e4dcbf47c3f99a780681e3a3a9fcf9e9"
+        },
+        {
+            "path": "mods/tl_skin_cape_forge_1.12.2-1.38.jar",
+            "size": 778074,
+            "hash": "910125c9c16f9b5abca7d80c468173fe"
+        },
+        {
+            "path": "mods/voicechat-forge-1.12.2-2.3.27.jar",
+            "size": 8816350,
+            "hash": "24edcebd9a8371c1a9680021d6028b51"
+        },
+        {
+            "path": "mods/xaerolib-forge-1.12.2-1.1.0.jar",
+            "size": 597314,
+            "hash": "56937f0da869cd049d0a3880fff4d485"
+        },
+        {
+            "path": "mods/xaerominimap-forge-1.12.2-25.3.10.jar",
+            "size": 1992435,
+            "hash": "03def78b22ae207ff6a1c245ab737c7c"
+        },
+        {
+            "path": "mods/[1.12]bspkrsCore-universal-7.6.0.1.jar",
+            "size": 65907,
+            "hash": "c916e0be02b2522054c22016faed7ed8"
+        },
+        {
+            "path": "mods/[1.12]TreeCapitator-client-1.43.0.jar",
+            "size": 101115,
+            "hash": "08f5d4cf4987e8b099623052196d8f79"
+        }
+    ],
+    "version": "1.0.0"
+}
