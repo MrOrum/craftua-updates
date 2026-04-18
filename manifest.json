@@ -1,0 +1,30 @@
+{
+  "files": {
+    "mods/advancedmachines-61.0.1.jar": "sha256:6092ffec5a1eff36c0a03225a46d45eb74fd7986023789391626c60437e4d9c4",
+    "mods/advancedsolarpanels-4.3.0.jar": "sha256:6530286f2cd6545f4d7b510d64199a1ec5a4f77915fea2f7274c9a0fbdbc011a",
+    "mods/ae2stuff-0.7.0.4-mc1.12.2.jar": "sha256:123038d365611d0b074f2d1a100962198c72a8386b0b56e09395b4070ff4190f",
+    "mods/appliedenergistics2-rv6-stable-7.jar": "sha256:e7f7fbf6caaf6206dbd958fb8f9185f874a405289e62ae3e97209b455a89fb1a",
+    "mods/bdlib-1.14.4.1-mc1.12.2.jar": "sha256:b385f1a6f3f908673324ef03ed15b6bb5f588ce2e36443acc7273a6263cca045",
+    "mods/buildcraft-all-8.0.0-1.12.2.jar": "sha256:f617279f8148a9140ab86c0e4aa4c54fe8a94515d2cf487a47cbd928160b88aa",
+    "mods/comboarmors-1.12.2-0.0.9.jar": "sha256:6fdfa09502307a1aa3cd14597b8597dc6cd0e3e2d4e50f92e6d7650c1b0f1b0f",
+    "mods/compactsolars-1.12.2-5.0.18.341-universal.jar": "sha256:7c04dd28880aa36f8c13276ff8e7bc4c26855bf154e5878c2130869e554c97ac",
+    "mods/forestry_1.12.2-5.8.2.424.jar": "sha256:fce6af7931dc054afc33fc79db7e3e4d81477591fe7bbd563cd1a5b2699342d4",
+    "mods/gravitationsuite-3.1.1.jar": "sha256:ebe327325374661a988798f4179041c26ccb74a8ac11170eeadb72af4ee3500d",
+    "mods/Hwyla-1.8.26-B41_1.12.2.jar": "sha256:e9ddecd4920ee9a57e11e4b43fb1dd395bbf37e276be726a99a2590272304124",
+    "mods/industrialcraft-2-2.8.188-ex112.jar": "sha256:9aed86a1b91ed929ccd21d1ae61cf63c8c232df81f4ff7b9611e008d0df1b00b",
+    "mods/InventoryTweaks_1.12.2_1.64dev.151.jar": "sha256:8b3d8f2392e3e455de6c99fac30740f558908c6896adc7dd7948be009b418f52",
+    "mods/ironchest-netherite-1.12.2-0.9.2.jar": "sha256:7dc9e3a47ac31d69de9b267c9da4f5525fcbaff18b0af8921176da0ddf18df83",
+    "mods/jei_1.12.2-4.16.1.1013.jar": "sha256:52d0782ad805c20b1061711faa64a5fdc4640639738f7cedb1e5b0be46fc8685",
+    "mods/MouseTweaks-2.10-mc1.12.2.jar": "sha256:77969c0e7f76c078ebb7004642e86746d57f47b7a46237fcb1c06d4a55679448",
+    "mods/tl_skin_cape_forge_1.12.2-1.38.jar": "sha256:c7b9cf6b6a2e8f57cccabab8ab3e66ae436f3f7dad7cde0d7dca7069cdaaa5dd",
+    "mods/voicechat-forge-1.12.2-2.3.27.jar": "sha256:b1e595db5332790fd25a9cfea71d48241f055e3990d1970e1753f032a6fe684d",
+    "mods/xaerolib-forge-1.12.2-1.1.0.jar": "sha256:777127ce764ec4ea096ba5245609994de4c6290db2b5cf7d41d3ce17a6662767",
+    "mods/xaerominimap-forge-1.12.2-25.3.10.jar": "sha256:e9c09bbddd8c2d27f383975ee60b93a4153e1e976479d94b78c62b4db7a94930",
+    "mods/[1.12]bspkrsCore-universal-7.6.0.1.jar": "sha256:2d7e9066c4394a8ba4725b6f0ca44c8a7999b9fdda4a3996d01dc526fc64095d",
+    "mods/[1.12]TreeCapitator-client-1.43.0.jar": "sha256:bf74d54c763f27de2913d74b5cbbcd17fd68cda61d4c83cc44a239d7d890dfd4",
+    "config/forge.cfg": "sha256:c642d286a0379b2aafd2d282a79239e58d32ac15cc25dfd08bab5747a5d85662",
+    "config/forgeChunkLoading.cfg": "sha256:95b66df0da7df0be35ccbc51ad08962b7ddba14f593f0428096547d67fed2378",
+    "config/splash.properties": "sha256:c146dc0061e534709f1740c6eb2bea4af4baad6f88fb800554dcd56a8ce1ea65"
+  },
+  "version": "1.0.0"
+}
