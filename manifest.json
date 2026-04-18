@@ -24,7 +24,7 @@
     "mods/[1.12]TreeCapitator-client-1.43.0.jar": "sha256:bf74d54c763f27de2913d74b5cbbcd17fd68cda61d4c83cc44a239d7d890dfd4",
     "config/forge.cfg": "sha256:c642d286a0379b2aafd2d282a79239e58d32ac15cc25dfd08bab5747a5d85662",
     "config/forgeChunkLoading.cfg": "sha256:95b66df0da7df0be35ccbc51ad08962b7ddba14f593f0428096547d67fed2378",
-    "config/splash.properties": "sha256:c146dc0061e534709f1740c6eb2bea4af4baad6f88fb800554dcd56a8ce1ea65"
+    "config/splash.properties": "sha256:bd8315239b49125b907fadff1798c17d7e016ba00b14a9a33439e690b93ab287"
   },
   "version": "1.0.0"
 }
